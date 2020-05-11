@@ -1,4 +1,4 @@
-# Este no es el repositorio original de PhoneSploit, este repositorio contiene un PhoneSploit modificado para termux a quienes le da error El repositorio original de PhoneSploit es este: https://github.com/metachar/PhoneSploit
+# Este no es el repositorio original de PhoneSploit, este repositorio contiene un PhoneSploit modificado para termux a quienes le da error en el ADB. El repositorio original de PhoneSploit es este: https://github.com/metachar/PhoneSploit
 # Recent News (New Update v.1.2)
 
 Port Forwarding<br>        NetStat <br>
